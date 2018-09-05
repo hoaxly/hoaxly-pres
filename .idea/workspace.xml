@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f334cb1-32c1-4920-921a-2dc42666f320" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/api.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/browser-extension.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/chatbots.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/theme/drupalat.css" afterPath="$PROJECT_DIR$/css/theme/drupalat.css" />
-      <change beforePath="$PROJECT_DIR$/faq.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/browser_ext_detail.png" afterPath="$PROJECT_DIR$/images/browser_ext_detail.png" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +17,49 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="179" column="34" lean-forward="false" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="324">
+              <caret line="159" column="36" lean-forward="true" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#4;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#section#11;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#section#12;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="browser_ext_detail.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/browser_ext_detail.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hoaxly_chatbot_example.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/hoaxly_chatbot_example.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hoaxly-logo-animated.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/hoaxly-logo-animated.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hoax_fake_news_game_votes.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/hoax_fake_news_game_votes.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schemaorg_examplecontent.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/schemaorg_examplecontent.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -55,41 +89,6 @@
       </file>
       <file leaf-file-name="drupal-brands.svg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/drupal-brands.svg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chrome-brands.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/chrome-brands.svg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="osi-brands.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/osi-brands.svg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slack-brands.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/slack-brands.svg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="telegram-brands.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/telegram-brands.svg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fakenews_googletrends.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/fakenews_googletrends.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -157,17 +156,6 @@
             <path>
               <item name="hoaxly_pres" type="b2602c69:ProjectViewProjectNode" />
               <item name="hoaxly_pres" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="hoaxly_pres" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hoaxly_pres" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="theme" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="hoaxly_pres" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hoaxly_pres" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -206,12 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536086602322</updated>
-      <workItem from="1536086603466" duration="18512000" />
+      <workItem from="1536086603466" duration="22576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18512000" />
+    <option name="totallyTimeSpent" value="22576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1204" extended-state="6" />
@@ -301,11 +289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/browser_ext_detail.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/database-solid.svg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -364,11 +347,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/browser_ext_detail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/schemaorg_examplecontent.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hoaxly_chatbot_example.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hoaxly-logo-animated.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hoax_fake_news_game_votes.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="179" column="34" lean-forward="false" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="324">
+          <caret line="159" column="36" lean-forward="true" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#4;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#11;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#12;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

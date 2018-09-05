@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f334cb1-32c1-4920-921a-2dc42666f320" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/images/ao_logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/ao_square.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/criz.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drunomics_logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drupal7-system.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drupal7-system2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drupal8-regions.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drupal8_rescue.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drupal_austria_logo.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drupal_divitis.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drupal_divitis2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/minions.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/screenshot_bartik.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/screenshot_seven.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/screenshot_stark.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/theme-overview.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/twig-debugging.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/zites_logo.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/api.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/browser-extension.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/chatbots.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/theme/drupalat.css" afterPath="$PROJECT_DIR$/css/theme/drupalat.css" />
+      <change beforePath="$PROJECT_DIR$/faq.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,46 +19,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+            <state relative-caret-position="522">
+              <caret line="179" column="34" lean-forward="false" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="drupalat.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/theme/drupalat.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-1474">
+              <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="126">
-                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
+      <file leaf-file-name="debunkCMS_iphone.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/debunkCMS_iphone.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reveal.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/reveal.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="debunkCMS-logoInv.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/debunkCMS-logoInv.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drupal-brands.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/drupal-brands.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chrome-brands.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/chrome-brands.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="osi-brands.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/osi-brands.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slack-brands.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slack-brands.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="telegram-brands.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/telegram-brands.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fakenews_googletrends.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/fakenews_googletrends.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -84,8 +103,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/images/chrome-brands.svg" />
+        <option value="$PROJECT_DIR$/images/database-solid.svg" />
+        <option value="$PROJECT_DIR$/images/facebook-square-brands.svg" />
+        <option value="$PROJECT_DIR$/images/slack-brands.svg" />
+        <option value="$PROJECT_DIR$/images/telegram-brands.svg" />
+        <option value="$PROJECT_DIR$/images/drupal-brands.svg" />
+        <option value="$PROJECT_DIR$/css/theme/drupalat.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -131,6 +157,17 @@
             <path>
               <item name="hoaxly_pres" type="b2602c69:ProjectViewProjectNode" />
               <item name="hoaxly_pres" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hoaxly_pres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hoaxly_pres" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hoaxly_pres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hoaxly_pres" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -169,12 +206,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536086602322</updated>
-      <workItem from="1536086603466" duration="5403000" />
+      <workItem from="1536086603466" duration="18512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5403000" />
+    <option name="totallyTimeSpent" value="18512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1204" extended-state="6" />
@@ -221,14 +258,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -240,11 +269,106 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browserconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browser-extension.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chatbots.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/browser_ext_detail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/database-solid.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/facebook-square-brands.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/fakenews_googletrends.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/chrome-brands.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/osi-brands.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slack-brands.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/telegram-brands.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/drupal-brands.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/debunkCMS-logoInv.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/debunkCMS_iphone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/drupalat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1474">
+          <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="179" column="34" lean-forward="false" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
